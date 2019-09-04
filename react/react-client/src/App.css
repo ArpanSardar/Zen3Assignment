@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.editable-row .ant-form-explain {
+  position: absolute;
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+.table {
+  width: 60%;
+}
+.table input {
+  text-align: center;
+}
+.table > thead {
+  background-color: #282c34;
+  border: 1px solid #282c34;
+  color: aliceblue;
+}
+.table > tbody > tr > td {
+  border: 1px solid lightgray;
+  padding: 10px 5px;
+}
+.table > tbody > tr > td i {
+  margin-left: 10px;
+}
+.table > tbody > tr > td i:hover {
+  color: blue;
+}
+.header {
+  background-color: #282c34;
+  border: 1px solid #282c34;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
