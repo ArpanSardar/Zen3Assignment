@@ -11,6 +11,7 @@ app.get('/', (req, res) => res.send('API is running'));
 
 //Define routes
 app.use('/api/valuefinder', require('./routes/api/valuefinder'));
+app.use('/api/accessgooglesheet', require('./routes/api/accessgooglesheet'));
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server started on port: ${PORT}`));

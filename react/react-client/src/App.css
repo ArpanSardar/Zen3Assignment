@@ -30,7 +30,7 @@
 }
 
 .table {
-  width: 60%;
+  width: 100%;
 }
 .table input {
   text-align: center;
@@ -57,6 +57,82 @@
   font-weight: bold;
 }
 
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  padding: 5px 12px;
+  cursor: pointer;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 4px 11px;
+}
+
+.editable-row .ant-form-explain {
+  position: absolute;
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+.actionHeader {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 850px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.7rem 2rem;
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  top: 0;
+  border-bottom: 1px solid #17a2b8;
+  opacity: 0.9;
+}
+
+.navbar ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+}
+
+.navbar ul li.active a {
+  color: #17a2b8;
+  font-weight: bold;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 0.45rem;
+  margin: 0 0.25rem;
+}
+
+.navbar a:hover {
+  color: #17a2b8;
+}
+.bg-dark {
+  background-color: #343a40;
+  color: #fff;
+  box-shadow: 0 0px 10px 0 rgba(0, 0, 0, 0.16), 0 0px 10px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 0.125rem;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

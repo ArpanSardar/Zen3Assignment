@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zen3assignment",
+  "private_key_id": "ce135e0e68ac26af5ef083d2033d45a31f955527",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCP2GXhq5KkOpK5\nq2wdTbSDe1Is7nP8N0KYdBTTfDCAJk6Kcouo0CEkflEsQn5Rwi5pu2SvORZAHzaJ\npn1xmQ/2LnskvyL6EgAUS8S6avEIm4giePvvcZ52nrw8LqhS/QDjDvkjU9Sb6kdt\nF5l0kpOG3h4wrYZCh1Lw4V7P6bLSFFkDAQgSylKzGkOrO+o1sMlkWHmqF71dYpym\nB0Dw9KLC1Q2NckB6QxmGRVUDb6JmjChleRRMnFKic8r8EyT39/nehC2y1rmnJ7ij\nypIvbkIuvy5eIXQ9HI3OSdrMvYU7VTr0VJ/MWYSgsbZJIGP/hmP/3yojSeIF3yD4\nZSscME0ZAgMBAAECggEANBDOU8BADFy9JiJjuDmbmKnHBUdsSQMRglAmB6Sgg4oa\nDKfIYFqxXF2ycPRCd8Jy/UdcesYNhTknCuzt4/PUoLWTUioy9VQVnkMMmrNBum1d\neajT/AfipSnwlVIIED3Ol+EgEYby4lqK7vRHUbgKWRtFzzXH7oW/4juZD2WWGc7D\nqayqFo3bscwzHjmNfK+9fy6STuDrjaaqipxtZdgMV5BU+Jb8C0p3/UhyjuuKBfdl\nSXyrVJ+vNBvoZ/jdcHx+5NDZu3ic5ijWrkWRJA6TC6aVcq8pj/fJuokvu4iEk60E\nbgR/VwiraAa5VJW+v6ybGpWde9OIYYVloXfrbIN5LwKBgQDGLW7fpA2EyaoewiBT\n93cMiw0PZA399laDl37j9qn8vsJ88lEC54nj5bJmetxp85M2JYSUb94t6bR6lRLc\nCfZq30zrl6VOz4tP2Cen7BpLuu5boWAQJaFo3k0x6FcJLbmnRCvxSqk9PKpGR+GK\n+mbpI3VNsSxacNUlqOmaJ/vhDwKBgQC50LSlYPkYku0LjOkmDwe1uhxUh0iOp55C\n4heLau6/grPopEgnl6viRJWhp0hJnnQxQnQw8B6TiPyQNfLyce6t8HizJHnKCj52\nU8opKCbTEZjmBQGJDXT8QmDsos3yAEi7VO+PyuJwtJVxum2h5VendjvEp9kYkLri\n36lxmUofVwKBgCjSmxA+fvpngD+txXMGeuN+kUYmWiuCXvfkcSMMYJ/Lu8x5Le7n\nOyRS4JjzngvFPQHeYJ0jHiVfCuplYukotDX3oaS2LDs7zXq5EBIrNI99BjSh3WP2\nHHW5tTUeoy8k2CV4iYS+2HXg1UJ89Bzoz+Ieh79lS7mlnIKRdO1oZx5JAoGAau9l\nRtesAyxrJv6NHs3/jeHxc+P3KcHlHnCnRCDiDWzWxMfmjoKG9MyroEB5JYT/MWoh\nHBjUP+vSDdw+WLCgv5FopRAU1uVWVRqbeVwWG9pAt/+hhpIsBRDeXtDC3Ma1FLoo\ntAP6lQoYBz9W4Jjv/PvaIa7HDZAdPXuiNDIXqjkCgYAQscq5IdWibbUjw18E9dTh\nRB9iQeM3AHO5RnTPtVGvURUyIrVyhVm8egSy2bT2PT3m2xgAgUpj8pz2ARpDbVaq\nUK19gPWB7BC+ZHLLAID7atA315izF+P810S3rtgKkcIr8aMRbgzmaarON8mTkPr3\nMgQZYA+GiJUa+tyD/SJ3dA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zen3serviceaccount@zen3assignment.iam.gserviceaccount.com",
+  "client_id": "111345028219367875900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zen3serviceaccount%40zen3assignment.iam.gserviceaccount.com"
+}
